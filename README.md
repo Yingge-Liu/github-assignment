@@ -5,7 +5,7 @@ People who have completed this assignment, in alphabetical order of last name:
 Last Name | First Name | husky id | github id      | avatar
 ---------|------------|-----------|-----------|---------
 Finkelstein | Joshua |     |     |
-Fonseca Garcia | Javier |     |     |
+Fonseca Garcia | Javier | fonsecagarcia.j |   [JavierFonseca](https://github.com/JavierFonseca)     | ![JavierFonseca](https://github.com/JavierFonseca.png?size=40)
 Jia | Zhen |     |     |
 Kim | Matthew |     |     |
 Li | Yuan |     |     |
