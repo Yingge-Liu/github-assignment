@@ -1,4 +1,4 @@
-# github-assignment
+ github-assignment
 
 People who have completed this assignment, in alphabetical order of last name:
 
@@ -10,7 +10,7 @@ Jia | Zhen |     |     |
 Kim | Matthew |     |     |
 Li | Yuan |     |     |
 Liao | Yoan-Ting |     |     |
-Liu | Yingge |     |     |
+Liu | Yingge | liu.yingg  |  [Yingge-Liu](https://github.com/Yingge-Liu)  | ![Yingge-Liu](https://github.com/Yingge-Liu.png?size=40)
 Lu | Zhicheng |     |     |
 Mendoza Semidey | Eduardo |     |     |
 Pearlman | Brendon |     |     |
