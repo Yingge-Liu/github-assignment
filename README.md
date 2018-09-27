@@ -23,4 +23,3 @@ Xu | Jiaming |     |     |
 Zakrzewski | Samuel |     |     |
 Zhu | Shu |  zhu.shu1   |  zhushu1   |   [zhushu1](https://github.com/zhushu1)        | ![zhushu1](https://github.com/zhushu1.png?size=40)
 
-
