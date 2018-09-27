@@ -1,4 +1,4 @@
-# github-assignment
+ github-assignment
 
 People who have completed this assignment, in alphabetical order of last name:
 
@@ -21,5 +21,6 @@ Wai | Francesco |     |     |
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
 Xu | Jiaming |     |     |
 Zakrzewski | Samuel |     |     |
-Zhu | Shu |     |     |
+Zhu | Shu |  zhu.shu1   |  zhushu1   |   [zhushu1](https://github.com/zhushu1)        | ![zhushu1](https://github.com/zhushu1.png?size=40)
+
 
