@@ -21,5 +21,5 @@ Wai | Francesco |     |     |
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
 Xu | Jiaming |     |     |
 Zakrzewski | Samuel |     |     |
-Zhu | Shu |  zhu.shu1   |   [zhushu1](https://github.com/zhushu1)        | ![zhushu1](https://ithub.com/zhushu1.png?size=40)
+Zhu | Shu |  zhu.shu1   |   [zhushu1](https://github.com/zhushu1)        | ![zhushu1](https://github.com/zhushu1.png?size=40)
 
